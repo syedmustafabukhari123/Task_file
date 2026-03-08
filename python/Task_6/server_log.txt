@@ -1,0 +1,8 @@
+INFO Server started
+ERROR Database connection failed
+WARNING High memory usage
+CRITICAL Disk failure
+ERROR Timeout occurred
+CRITICAL Network failure
+INFO User logged in
+ERROR Database connection failed

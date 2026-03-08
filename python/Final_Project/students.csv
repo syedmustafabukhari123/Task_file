@@ -1,0 +1,6 @@
+id,name,marks,due_date
+S001,Alice Johnson,85,2023-10-01
+S002,Bob Smith,35,2023-10-05
+S003,Charlie Brown,invalid,2023-10-10
+S004,David Miller,72,2023-09-20
+S005,Eve Adams,-10,2023-10-15
